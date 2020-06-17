@@ -7,6 +7,14 @@ The Name Of The Project Is Musical website. It is Written in HTML, CSS, JAVASCIP
 3.Open in your favorite browser.<br />
 and then if you want to change anything you can.<br />
 <br />
+
+![](Screenshots/Front.JPG)<br />
+![](Screenshots/Middle.JPG)<br />
+![](Screenshots/Login.JPG)<br />
+![](Screenshots/Gallery.JPG)<br />
+![](Screenshots/Events.JPG)<br />
+![](Screenshots/Playlist.JPG)<br />
+
 #Follow Me On Social Media<br />
 #Instagram: https://www.instagram.com/s_h_o_a_i_b.7/<br />
 #Twitter:https://twitter.com/Shoaibdar121<br />
