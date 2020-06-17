@@ -9,11 +9,17 @@ and then if you want to change anything you can.<br />
 <br />
 
 ![](Screenshots/Front.JPG)<br />
+<br />
 ![](Screenshots/Middle.JPG)<br />
+<br />
 ![](Screenshots/Login.JPG)<br />
+<br />
 ![](Screenshots/Gallery.JPG)<br />
+<br />
 ![](Screenshots/Events.JPG)<br />
+<br />
 ![](Screenshots/Playlist.JPG)<br />
+<br />
 
 #Follow Me On Social Media<br />
 #Instagram: https://www.instagram.com/s_h_o_a_i_b.7/<br />
