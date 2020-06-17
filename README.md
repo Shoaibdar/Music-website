@@ -18,7 +18,7 @@ and then if you want to change anything you can.<br />
 <br />
 ![](Screenshots/Events.JPG)<br />
 <br />
-![](Screenshots/Playlist.JPG)<br />
+![](Screenshots/Palylist.JPG)<br />
 <br />
 
 #Follow Me On Social Media<br />
