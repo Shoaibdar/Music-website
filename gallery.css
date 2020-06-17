@@ -1,0 +1,582 @@
+body
+{
+    background: linear-gradient(45deg, #E91E63 -200%, #2b0077 100%);
+    margin: 0px;
+    background-size: cover;
+}
+h1
+{
+    text-align: center;
+    color: deeppink;
+    font-size: 50px;
+    font-family: "Raleway", sans-serif;
+    font-style: italic;
+    margin-top: 50px;
+}
+.parent1
+{
+    margin-left: 15px;
+}
+
+.parent1 {
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+   
+}
+
+.child1 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/sa.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 30px;
+}
+.parent1:hover .child1,
+.parent1:focus .child1 {
+  transform: scale(1.2);
+  transition: all .5s;
+    cursor: pointer;
+}
+
+.parent2 {
+    width: 300px;
+    height: 300px;
+    margin-left: 330px;
+}
+
+.child2 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/at.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 40px;
+  margin-top: -300px;
+}
+.parent2:hover .child2,
+.parent2:focus .child2
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+
+.parent3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 630px;
+}
+
+.child3 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/ar.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 80px;
+  margin-top: -300px;
+}
+.parent3:hover .child3,
+.parent3:focus .child3
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+
+.parent4 {
+    width: 300px;
+    height: 300px;
+    margin-left: 930px;
+}
+
+.child4 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/jus.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 115px;
+  margin-top: -300px;
+}
+.parent4:hover .child4,
+.parent4:focus .child4
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+
+.parent5 {
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.child5 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/neha.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+ /* margin-left: 120px;*/
+  margin-top: 40px;
+}
+.parent5:hover .child5,
+.parent5:focus .child5
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent6 {
+    width: 300px;
+    height: 300px;
+    margin-left: 330px;
+}
+
+.child6 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("gallery/6.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 40px;
+  margin-top: -300px
+}
+.parent6:hover .child6,
+.parent6:focus .child6
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent7 {
+    width: 300px;
+    height: 300px;
+    margin-left: 630px;
+}
+
+.child7 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/neeti.jpeg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 80px;
+  margin-top: -300px
+}
+.parent7:hover .child7,
+.parent7:focus .child7
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent8 {
+    width: 300px;
+    height: 300px;
+    margin-left: 930px;
+}
+
+.child8 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/shr.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 115px;
+  margin-top: -300px
+}
+.parent8:hover .child8,
+.parent8:focus .child8
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent9 {
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.child9 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/zain.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  /*margin-left: 115px;*/
+  margin-top: 40px
+}
+.parent9:hover .child9,
+.parent9:focus .child9
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent10 {
+    width: 300px;
+    height: 300px;
+    margin-left: 330px;
+}
+
+.child10 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/sh.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 40px;
+  margin-top: -300px
+}
+.parent10:hover .child10,
+.parent10:focus .child10
+{
+  cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+
+.parent11 {
+    width: 300px;
+    height: 300px;
+    margin-left: 630px;
+}
+
+.child11 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("cover/ar%20rehman.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 80px;
+  margin-top: -300px
+}
+.parent11:hover .child11,
+.parent11:focus .child11
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+.parent12 {
+    width: 300px;
+    height: 300px;
+    margin-left: 930px;
+}
+
+.child12 {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color */
+  background-image: url("gallery/5.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 115px;
+  margin-top: -300px
+}
+.parent12:hover .child12,
+.parent12:focus .child12
+{
+    cursor: pointer;
+  transform: scale(1.2);
+  transition: all .5s;
+}
+
+/*-----------------------------------------------------------------*/
+.child1::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent1:hover .child1:before,
+.parent1:focus .child1:before {
+  display: block;
+}
+
+
+.child2::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent2:hover .child2:before,
+.parent2:focus .child2:before {
+  display: block;
+}
+
+
+.child3::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent3:hover .child3:before,
+.parent3:focus .child3:before {
+  display: block;
+}
+
+
+.child4::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent4:hover .child4:before,
+.parent4:focus .child4:before {
+  display: block;
+}
+
+.child5::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent5:hover .child5:before,
+.parent5:focus .child5:before {
+  display: block;
+}
+
+
+.child6::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent6:hover .child6:before,
+.parent6:focus .child6:before {
+  display: block;
+}
+
+.child7::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent7:hover .child7:before,
+.parent7:focus .child7:before {
+  display: block;
+}
+
+
+.child8::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent8:hover .child8:before,
+.parent8:focus .child8:before {
+  display: block;
+}
+
+.child9::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent9:hover .child9:before,
+.parent9:focus .child9:before {
+  display: block;
+}
+
+.child10::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent10:hover .child10:before,
+.parent10:focus .child10:before {
+  display: block;
+}
+
+.child11::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent11:hover .child11:before,
+.parent11:focus .child11:before {
+  display: block;
+}
+
+.child12::before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+    border-radius: 52px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(52, 73, 94, 0.75);
+}
+
+.parent12:hover .child12:before,
+.parent12:focus .child12:before {
+  display: block;
+}
+
+/*
+.child {
+  width: 100%;
+  height: 100%;
+  background-color: black; /* fallback color *//*
+  background-image: url("gallery/1.jpg");
+  background-position: center;
+  background-size: cover;
+  border-radius: 52px;
+  margin-left: 30px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+#gallery img
+{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    margin-left: 20PX;
+    margin-bottom: 20px;
+    border-radius: 52px;
+}
+#gallery a:hover
+{
+  transform: scale(1.2);
+  transition: all .5s;
+}

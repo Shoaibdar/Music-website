@@ -1,0 +1,98 @@
+
+#main
+{
+  width: 100%;
+  height: 10%;
+  position: relative;
+  left: 0;
+  top: 0;
+    margin-top: -66px;
+ /* background: url("1.jpg") no-repeat;*/
+  background-size: cover;
+}
+#main img
+{
+   margin-top: 25px;
+   margin-right: 15px;
+
+}
+#main
+{
+    float: right;
+    
+}
+#music1 
+{
+    text-align: center;
+    margin-top: 29%;
+    margin-left: 100px;
+    color: whitesmoke;
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+}
+/*
+.nav-menu img
+{
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+}*/
+.nav-menu
+{
+    float: left;
+}
+
+.nav-menu a {
+  padding: 10px 8px;
+  text-decoration: none;
+  display: inline-block;
+  color: antiquewhite;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  outline: none;
+}
+.nav-menu > li {
+  float: right;
+}
+.nav-menu > li {
+  margin-left: 10px;
+}
+
+.nav-menu li a:hover  {
+  color: deeppink;
+}
+
+.nav-menu input[type="search"]
+{
+    border-radius: 40px;
+    border: none;
+    margin-top: 8px;
+    width: 350px;
+    height: 23px;
+    text-align: center;
+}
+
+#main input[type="button"]
+{
+    margin-top: 20px;
+    border: none;
+    float: right;
+    margin-right: 20px;
+    padding: 10px 8px;
+    text-decoration: none;
+    color: white;
+    /*color: #9f6ab9;*/
+    font-family: "Raleway", sans-serif;
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: deeppink;
+}
+#main input[type="button"]:hover 
+{
+    cursor: pointer;
+    color: white;
+    background: blue;
+}

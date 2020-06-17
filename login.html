@@ -1,0 +1,47 @@
+<html>
+    <head><title>www.Music.com</title></head>
+    <link href="logo/music.png" rel="icon">
+    <link href="loginstyle.css" rel="stylesheet">
+    
+    <!--
+    
+    <input type='text' id='txtEmail'/>
+<input type='submit' name='submit' onclick='Javascript:checkEmail();'/>-->
+    
+    
+       <body>
+           
+           <br><br>
+          <center><h4><font size="20">WELLCOME To WORLD OF MUSIC!!</font></h4></center> 
+    <div class="loginbox">
+        <img src="logo/music.png" class="avatar">
+        <h1>Login Here</h1>
+        <form>
+         <p>Username</p>
+        <input type="text" id='txtEmail' placeholder="Phone number, username, or email">
+        <p>Password</p>
+        <input type="Password" name="" placeholder ="Enter Password" required>
+            <a href="index.html">  <input type="button" value="Login" onclick="Javascript:checkEmail();"></a>
+            <a href="https://dashboard.dittomusic.com/signup">  <input type="button" name="" value="Sign up"></a>
+        <a href="https://dashboard.dittomusic.com/login">forget Password?</a><br>
+        </form>
+        </div>
+           
+           
+           <script language="javascript">
+
+function checkEmail() {
+
+    var email = document.getElementById('txtEmail');
+    var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+    if (!filter.test(email.value)) {
+    alert('Please fill the requried fields');
+    email.focus;
+    return false;
+ }
+}
+</script>
+           
+    </body>
+</html>

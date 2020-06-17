@@ -1,0 +1,47 @@
+body
+{
+    background-image: url('cover/at.jpg');
+    background-size: cover;
+    width: 99%;
+    height: 100%;
+}
+#audio 
+{
+    margin-top: -60px;
+    margin-left: 65%;
+}
+#audio input[type="button"]
+{
+    margin-top: -49px;
+    margin-left: 70%;
+    width: 125px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    background: green;
+    color: white;
+}
+#audio input[type="button"]:hover
+{
+    cursor: pointer;
+    border: none;
+    background: blue;
+    border-radius: 20px;
+}
+.atif
+{
+    color:whitesmoke;
+    margin-left: 25px;
+    font-size: 20px;
+    margin-top: 160px;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+}
+#a
+{
+    text-align: center;
+    color: deeppink;;
+    font-size: 30px;
+    font-style: normal;
+    font-family: "Raleway", sans-serif
+}
